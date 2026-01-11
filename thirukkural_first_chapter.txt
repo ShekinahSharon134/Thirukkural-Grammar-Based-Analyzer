@@ -1,0 +1,509 @@
+Closest Matching Kural:
+அகர முதல எழுத்தெல்லாம் ஆதி
+பகவன் முதற்றே உலகு
+***************************************************************************************
+Input follows the Thirukkural format: 4 words in the first line and 3 in the second.
+***************************************************************************************
+
+Asai & seer Analysis
+
+Word 1: அகர
+Letters: ['Kuril', 'Kuril', 'Kuril']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: புளிமா
+-----------------------------------------------------------------
+
+Word 2: முதல
+Letters: ['Kuril', 'Kuril', 'Kuril']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: புளிமா
+-----------------------------------------------------------------
+
+Word 3: எழுத்தெல்லாம்
+Letters: ['Kuril', 'Kuril', 'Mei', 'Kuril', 'Mei', 'Nedil', 'Mei']
+Asai Matches: ['Nirai', 'Ner', 'Ner']
+Identified Vaippaadu: புளிமாங்காய்
+-----------------------------------------------------------------
+
+Word 4: ஆதி
+Letters: ['Nedil', 'Kuril']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: தேமா
+-----------------------------------------------------------------
+
+Word 5: பகவன்
+Letters: ['Kuril', 'Kuril', 'Kuril', 'Mei']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: புளிமா
+-----------------------------------------------------------------
+
+Word 6: முதற்றே
+Letters: ['Kuril', 'Kuril', 'Mei', 'Nedil']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: புளிமா
+-----------------------------------------------------------------
+
+Word 7: உலகு
+Letters: ['Kuril', 'Kuril', 'Kuril']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: பிறப்பு
+-----------------------------------------------------------------
+
+Closest Matching Kural:
+கற்றதனால் ஆய பயனென்கொல் வாலறிவன்
+நற்றாள் தொழாஅர் எனின்
+***************************************************************************************
+Input follows the Thirukkural format: 4 words in the first line and 3 in the second.
+***************************************************************************************
+
+Asai & seer Analysis
+
+Word 1: கற்றதனால்
+Letters: ['Kuril', 'Mei', 'Kuril', 'Kuril', 'Nedil', 'Mei']
+Asai Matches: ['Ner', 'Nirai', 'Ner']
+Identified Vaippaadu: கூவிளங்காய்
+-----------------------------------------------------------------
+
+Word 2: ஆய
+Letters: ['Nedil', 'Kuril']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: தேமா
+-----------------------------------------------------------------
+
+Word 3: பயனென்கொல்
+Letters: ['Kuril', 'Kuril', 'Kuril', 'Mei', 'Kuril', 'Mei']
+Asai Matches: ['Nirai', 'Ner', 'Ner']
+Identified Vaippaadu: புளிமாங்காய்
+-----------------------------------------------------------------
+
+Word 4: வாலறிவன்
+Letters: ['Nedil', 'Kuril', 'Kuril', 'Kuril', 'Mei']
+Asai Matches: ['Ner', 'Nirai', 'Ner']
+Identified Vaippaadu: கூவிளங்காய்
+-----------------------------------------------------------------
+
+Word 5: நற்றாள்
+Letters: ['Kuril', 'Mei', 'Nedil', 'Mei']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: தேமா
+-----------------------------------------------------------------
+
+Word 6: தொழாஅர்
+Letters: ['Kuril', 'Nedil', 'Kuril', 'Mei']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: புளிமா
+-----------------------------------------------------------------
+
+Word 7: எனின்
+Letters: ['Kuril', 'Kuril', 'Mei']
+Asai Matches: ['Nirai']
+Identified Vaippaadu: மலர்
+-----------------------------------------------------------------
+
+Closest Matching Kural:
+மலர்மிசை ஏகினான் மாணடி சேர்ந்தார்
+நிலமிசை நீடுவாழ் வார்
+***************************************************************************************
+Input follows the Thirukkural format: 4 words in the first line and 3 in the second.
+***************************************************************************************
+
+Asai & seer Analysis
+
+Word 1: மலர்மிசை
+Letters: ['Kuril', 'Kuril', 'Mei', 'Kuril', 'Nedil']
+Asai Matches: ['Nirai', 'Nirai']
+Identified Vaippaadu: கருவிளம்
+-----------------------------------------------------------------
+
+Word 2: ஏகினான்
+Letters: ['Nedil', 'Kuril', 'Nedil', 'Mei']
+Asai Matches: ['Ner', 'Nirai']
+Identified Vaippaadu: கூவிளம்
+-----------------------------------------------------------------
+
+Word 3: மாணடி
+Letters: ['Nedil', 'Kuril', 'Kuril']
+Asai Matches: ['Ner', 'Nirai']
+Identified Vaippaadu: கூவிளம்
+-----------------------------------------------------------------
+
+Word 4: சேர்ந்தார்
+Letters: ['Nedil', 'Mei', 'Mei', 'Nedil', 'Mei']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: தேமா
+-----------------------------------------------------------------
+
+Word 5: நிலமிசை
+Letters: ['Kuril', 'Kuril', 'Kuril', 'Nedil']
+Asai Matches: ['Nirai', 'Nirai']
+Identified Vaippaadu: கருவிளம்
+-----------------------------------------------------------------
+
+Word 6: நீடுவாழ்
+Letters: ['Nedil', 'Kuril', 'Nedil', 'Mei']
+Asai Matches: ['Ner', 'Nirai']
+Identified Vaippaadu: கூவிளம்
+-----------------------------------------------------------------
+
+Word 7: வார்
+Letters: ['Nedil', 'Mei']
+Asai Matches: ['Ner']
+Identified Vaippaadu: நாள்
+-----------------------------------------------------------------
+
+Closest Matching Kural:
+வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு
+யாண்டும் இடும்பை இல
+***************************************************************************************
+Input follows the Thirukkural format: 4 words in the first line and 3 in the second.
+***************************************************************************************
+
+Asai & seer Analysis
+
+Word 1: வேண்டுதல்
+Letters: ['Nedil', 'Mei', 'Kuril', 'Kuril', 'Mei']
+Asai Matches: ['Ner', 'Nirai']
+Identified Vaippaadu: கூவிளம்
+-----------------------------------------------------------------
+
+Word 2: வேண்டாமை
+Letters: ['Nedil', 'Mei', 'Nedil', 'Nedil']
+Asai Matches: ['Ner', 'Ner', 'Ner']
+Identified Vaippaadu: தேமாங்காய்
+-----------------------------------------------------------------
+
+Word 3: இலானடி
+Letters: ['Kuril', 'Nedil', 'Kuril', 'Kuril']
+Asai Matches: ['Nirai', 'Nirai']
+Identified Vaippaadu: கருவிளம்
+-----------------------------------------------------------------
+
+Word 4: சேர்ந்தார்க்கு
+Letters: ['Nedil', 'Mei', 'Mei', 'Nedil', 'Mei', 'Mei', 'Kuril']
+Asai Matches: ['Ner', 'Ner', 'Ner']
+Identified Vaippaadu: தேமாங்காய்
+-----------------------------------------------------------------
+
+Word 5: யாண்டும்
+Letters: ['Nedil', 'Mei', 'Kuril', 'Mei']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: தேமா
+-----------------------------------------------------------------
+
+Word 6: இடும்பை
+Letters: ['Kuril', 'Kuril', 'Mei', 'Nedil']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: புளிமா
+-----------------------------------------------------------------
+
+Word 7: இல
+Letters: ['Kuril', 'Kuril']
+Asai Matches: ['Nirai']
+Identified Vaippaadu: மலர்
+-----------------------------------------------------------------
+
+Closest Matching Kural:
+இருள்சேர் இருவினையும் சேரா இறைவன்
+பொருள்சேர் புகழ்புரிந்தார் மாட்டு
+***************************************************************************************
+Input follows the Thirukkural format: 4 words in the first line and 3 in the second.
+***************************************************************************************
+
+Asai & seer Analysis
+
+Word 1: இருள்சேர்
+Letters: ['Kuril', 'Kuril', 'Mei', 'Nedil', 'Mei']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: புளிமா
+-----------------------------------------------------------------
+
+Word 2: இருவினையும்
+Letters: ['Kuril', 'Kuril', 'Kuril', 'Nedil', 'Kuril', 'Mei']
+Asai Matches: ['Nirai', 'Nirai', 'Ner']
+Identified Vaippaadu: கருவிளங்காய்
+-----------------------------------------------------------------
+
+Word 3: சேரா
+Letters: ['Nedil', 'Nedil']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: தேமா
+-----------------------------------------------------------------
+
+Word 4: இறைவன்
+Letters: ['Kuril', 'Nedil', 'Kuril', 'Mei']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: புளிமா
+-----------------------------------------------------------------
+
+Word 5: பொருள்சேர்
+Letters: ['Kuril', 'Kuril', 'Mei', 'Nedil', 'Mei']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: புளிமா
+-----------------------------------------------------------------
+
+Word 6: புகழ்புரிந்தார்
+Letters: ['Kuril', 'Kuril', 'Mei', 'Kuril', 'Kuril', 'Mei', 'Nedil', 'Mei']
+Asai Matches: ['Nirai', 'Nirai', 'Ner']
+Identified Vaippaadu: கருவிளங்காய்
+-----------------------------------------------------------------
+
+Word 7: மாட்டு
+Letters: ['Nedil', 'Mei', 'Kuril']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: காசு
+-----------------------------------------------------------------
+
+Closest Matching Kural:
+பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க
+நெறிநின்றார் நீடுவாழ் வார்
+***************************************************************************************
+Input follows the Thirukkural format: 4 words in the first line and 3 in the second.
+***************************************************************************************
+
+Asai & seer Analysis
+
+Word 1: பொறிவாயில்
+Letters: ['Kuril', 'Kuril', 'Nedil', 'Kuril', 'Mei']
+Asai Matches: ['Nirai', 'Ner', 'Ner']
+Identified Vaippaadu: புளிமாங்காய்
+-----------------------------------------------------------------
+
+Word 2: ஐந்தவித்தான்
+Letters: ['Nedil', 'Mei', 'Kuril', 'Kuril', 'Mei', 'Nedil', 'Mei']
+Asai Matches: ['Ner', 'Nirai', 'Ner']
+Identified Vaippaadu: கூவிளங்காய்
+-----------------------------------------------------------------
+
+Word 3: பொய்தீர்
+Letters: ['Kuril', 'Mei', 'Nedil', 'Mei']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: தேமா
+-----------------------------------------------------------------
+
+Word 4: ஒழுக்க
+Letters: ['Kuril', 'Kuril', 'Mei', 'Kuril']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: புளிமா
+-----------------------------------------------------------------
+
+Word 5: நெறிநின்றார்
+Letters: ['Kuril', 'Kuril', 'Kuril', 'Mei', 'Nedil', 'Mei']
+Asai Matches: ['Nirai', 'Ner', 'Ner']
+Identified Vaippaadu: புளிமாங்காய்
+-----------------------------------------------------------------
+
+Word 6: நீடுவாழ்
+Letters: ['Nedil', 'Kuril', 'Nedil', 'Mei']
+Asai Matches: ['Ner', 'Nirai']
+Identified Vaippaadu: கூவிளம்
+-----------------------------------------------------------------
+
+Word 7: வார்
+Letters: ['Nedil', 'Mei']
+Asai Matches: ['Ner']
+Identified Vaippaadu: நாள்
+-----------------------------------------------------------------
+
+Closest Matching Kural:
+தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால்
+மனக்கவலை மாற்றல் அரிது
+***************************************************************************************
+Input follows the Thirukkural format: 4 words in the first line and 3 in the second.
+***************************************************************************************
+
+Asai & seer Analysis
+
+Word 1: தனக்குவமை
+Letters: ['Kuril', 'Kuril', 'Mei', 'Kuril', 'Kuril', 'Nedil']
+Asai Matches: ['Nirai', 'Nirai', 'Ner']
+Identified Vaippaadu: கருவிளங்காய்
+-----------------------------------------------------------------
+
+Word 2: இல்லாதான்
+Letters: ['Kuril', 'Mei', 'Nedil', 'Nedil', 'Mei']
+Asai Matches: ['Ner', 'Ner', 'Ner']
+Identified Vaippaadu: தேமாங்காய்
+-----------------------------------------------------------------
+
+Word 3: தாள்சேர்ந்தார்க்
+Letters: ['Nedil', 'Mei', 'Nedil', 'Mei', 'Mei', 'Nedil', 'Mei', 'Mei']
+Asai Matches: ['Ner', 'Ner', 'Ner']
+Identified Vaippaadu: தேமாங்காய்
+-----------------------------------------------------------------
+
+Word 4: கல்லால்
+Letters: ['Kuril', 'Mei', 'Nedil', 'Mei']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: தேமா
+-----------------------------------------------------------------
+
+Word 5: மனக்கவலை
+Letters: ['Kuril', 'Kuril', 'Mei', 'Kuril', 'Kuril', 'Nedil']
+Asai Matches: ['Nirai', 'Nirai', 'Ner']
+Identified Vaippaadu: கருவிளங்காய்
+-----------------------------------------------------------------
+
+Word 6: மாற்றல்
+Letters: ['Nedil', 'Mei', 'Kuril', 'Mei']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: தேமா
+-----------------------------------------------------------------
+
+Word 7: அரிது
+Letters: ['Kuril', 'Kuril', 'Kuril']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: பிறப்பு
+-----------------------------------------------------------------
+
+Closest Matching Kural:
+அறவாழி அந்தணன் தாள்சேர்ந்தார்க் கல்லால்
+பிறவாழி நீந்தல் அரிது
+***************************************************************************************
+Input follows the Thirukkural format: 4 words in the first line and 3 in the second.
+***************************************************************************************
+
+Asai & seer Analysis
+
+Word 1: அறவாழி
+Letters: ['Kuril', 'Kuril', 'Nedil', 'Kuril']
+Asai Matches: ['Nirai', 'Ner', 'Ner']
+Identified Vaippaadu: புளிமாங்காய்
+-----------------------------------------------------------------
+
+Word 2: அந்தணன்
+Letters: ['Kuril', 'Mei', 'Kuril', 'Kuril', 'Mei']
+Asai Matches: ['Ner', 'Nirai']
+Identified Vaippaadu: கூவிளம்
+-----------------------------------------------------------------
+
+Word 3: தாள்சேர்ந்தார்க்
+Letters: ['Nedil', 'Mei', 'Nedil', 'Mei', 'Mei', 'Nedil', 'Mei', 'Mei']
+Asai Matches: ['Ner', 'Ner', 'Ner']
+Identified Vaippaadu: தேமாங்காய்
+-----------------------------------------------------------------
+
+Word 4: கல்லால்
+Letters: ['Kuril', 'Mei', 'Nedil', 'Mei']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: தேமா
+-----------------------------------------------------------------
+
+Word 5: பிறவாழி
+Letters: ['Kuril', 'Kuril', 'Nedil', 'Kuril']
+Asai Matches: ['Nirai', 'Ner', 'Ner']
+Identified Vaippaadu: புளிமாங்காய்
+-----------------------------------------------------------------
+
+Word 6: நீந்தல்
+Letters: ['Nedil', 'Mei', 'Kuril', 'Mei']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: தேமா
+-----------------------------------------------------------------
+
+Word 7: அரிது
+Letters: ['Kuril', 'Kuril', 'Kuril']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: பிறப்பு
+-----------------------------------------------------------------
+
+Closest Matching Kural:
+கோளில் பொறியின் குணமிலவே எண்குணத்தான்
+தாளை வணங்காத் தலை
+***************************************************************************************
+Input follows the Thirukkural format: 4 words in the first line and 3 in the second.
+***************************************************************************************
+
+Asai & seer Analysis
+
+Word 1: கோளில்
+Letters: ['Nedil', 'Kuril', 'Mei']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: தேமா
+-----------------------------------------------------------------
+
+Word 2: பொறியின்
+Letters: ['Kuril', 'Kuril', 'Kuril', 'Mei']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: புளிமா
+-----------------------------------------------------------------
+
+Word 3: குணமிலவே
+Letters: ['Kuril', 'Kuril', 'Kuril', 'Kuril', 'Nedil']
+Asai Matches: ['Nirai', 'Nirai', 'Ner']
+Identified Vaippaadu: கருவிளங்காய்
+-----------------------------------------------------------------
+
+Word 4: எண்குணத்தான்
+Letters: ['Kuril', 'Mei', 'Kuril', 'Kuril', 'Mei', 'Nedil', 'Mei']
+Asai Matches: ['Ner', 'Nirai', 'Ner']
+Identified Vaippaadu: கூவிளங்காய்
+-----------------------------------------------------------------
+
+Word 5: தாளை
+Letters: ['Nedil', 'Nedil']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: தேமா
+-----------------------------------------------------------------
+
+Word 6: வணங்காத்
+Letters: ['Kuril', 'Kuril', 'Mei', 'Nedil', 'Mei']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: புளிமா
+-----------------------------------------------------------------
+
+Word 7: தலை
+Letters: ['Kuril', 'Nedil']
+Asai Matches: ['Nirai']
+Identified Vaippaadu: மலர்
+-----------------------------------------------------------------
+
+Closest Matching Kural:
+பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார்
+இறைவன் அடிசேரா தார்
+***************************************************************************************
+Input follows the Thirukkural format: 4 words in the first line and 3 in the second.
+***************************************************************************************
+
+Asai & seer Analysis
+
+Word 1: பிறவிப்
+Letters: ['Kuril', 'Kuril', 'Kuril', 'Mei']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: புளிமா
+-----------------------------------------------------------------
+
+Word 2: பெருங்கடல்
+Letters: ['Kuril', 'Kuril', 'Mei', 'Kuril', 'Kuril', 'Mei']
+Asai Matches: ['Nirai', 'Nirai']
+Identified Vaippaadu: கருவிளம்
+-----------------------------------------------------------------
+
+Word 3: நீந்துவர்
+Letters: ['Nedil', 'Mei', 'Kuril', 'Kuril', 'Mei']
+Asai Matches: ['Ner', 'Nirai']
+Identified Vaippaadu: கூவிளம்
+-----------------------------------------------------------------
+
+Word 4: நீந்தார்
+Letters: ['Nedil', 'Mei', 'Nedil', 'Mei']
+Asai Matches: ['Ner', 'Ner']
+Identified Vaippaadu: தேமா
+-----------------------------------------------------------------
+
+Word 5: இறைவன்
+Letters: ['Kuril', 'Nedil', 'Kuril', 'Mei']
+Asai Matches: ['Nirai', 'Ner']
+Identified Vaippaadu: புளிமா
+-----------------------------------------------------------------
+
+Word 6: அடிசேரா
+Letters: ['Kuril', 'Kuril', 'Nedil', 'Nedil']
+Asai Matches: ['Nirai', 'Ner', 'Ner']
+Identified Vaippaadu: புளிமாங்காய்
+-----------------------------------------------------------------
+
+Word 7: தார்
+Letters: ['Nedil', 'Mei']
+Asai Matches: ['Ner']
+Identified Vaippaadu: நாள்
+-----------------------------------------------------------------
